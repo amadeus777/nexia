@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
@@ -483,7 +482,7 @@ h6,
   color: #c0a375!important;
 }
 #header4-7 .mbr-section-title {
-  font-family: 'Bitter', serif;
+  font-family: 'PT Serif', serif;
 }
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {
