@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Аудиторские услуги Nexia",
-    "currentPage": "index.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1140,7 +1140,7 @@
           },
           "_anchor": "features3-1t",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -1172,7 +1172,7 @@
           "title1": "Nexia International приветствует нового члена в Непале",
           "subtitle1": "Добавлено 24.03.17",
           "caption1": "Nexia International (Nexia), входящая в первую десятку независимых аудиторских и консалтинговых фирм, добавила в Непале новую ...",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать далее</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать далее</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1184,7 +1184,7 @@
           "title2": "К Nexia International присоединилась крупная китай...&nbsp;",
           "subtitle2": "Добавлено 21.03.17",
           "caption2": "&nbsp;Jiangsu Suya Jincheng CPA LLC предоставляет аудиторские, налоговые и консультационные услуги примерно 3500 государственным компаниям...",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать далее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать далее</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1196,7 +1196,7 @@
           "title3": "Nexia International объявляет финансовые результаты",
           "subtitle3": "Добавлено 15.02.17",
           "caption3": "рада сообщить о своих финансовых результатах за 2016 год, которые показывают общий доход от сборов более чем на 3,2 млрд. Долл. США<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать далее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать далее</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -1208,7 +1208,7 @@
           "title4": "Nexia International расширила свою сеть с новой компанией&nbsp;",
           "subtitle4": "Добавлено 16.03.17",
           "caption4": "Nexia International приветствует новую фирму-член в Латвии в марте 2017 года Nexia International (Nexia), входит в первую десятку независимых &nbsp;...",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать далее</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать далее</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
