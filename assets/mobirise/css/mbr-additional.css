@@ -1826,3 +1826,42 @@ h6,
 #contacts5-3q STRONG {
   color: #ffffff;
 }
+
+
+#contacts5-3y p,
+#contacts5-3y .list-group-text,
+#contacts5-3y .form-control-label {
+  color: #000;
+}
+#contacts5-3y strong,
+#contacts5-3y h4 {
+  color: #7e9b9f;
+}
+#contacts5-3y form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-3y .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-3y .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-3y B {
+  color: #ffffff;
+}
+#contacts5-3y LI {
+  color: #28324e;
+}
+#contacts5-3y P {
+  font-family: 'Lora', serif;
+}
+#contacts5-3y .list-group-text {
+  font-family: 'Lora', serif;
+}
+#contacts5-3y H4 {
+  color: #ffffff;
+}
+#contacts5-3y STRONG {
+  color: #ffffff;
+}

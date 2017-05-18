@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 136,
+    "uniqCompNum": 143,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3554,7 +3554,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Мы благодарим Вас за интерес, проявленный к деятельности ТОО «NEXIA KZ» (ТОО «НАК «Казахконсалтинг»), являющейся членом международной сети Nexia International.&nbsp;</p><p><br></p><p>Летом 2014 года наша компания была признана полностью соответствующей и предоставляющей услуги в соответствии с Международными Стандартами Качества.&nbsp;</p><p><br></p><p>В соответствии с правилами сети Nexia International наша компания теперь называется ТОО \"NEXIA KZ\". &nbsp;По всем проектам ТОО «НАК «Казахконсалтинг» правопреемником выступает «NEXIA KZ».</p><p><br></p><p>Nexia International действует в четырех регионах: Азиатско-Тихоокеанский регион; Европа, Ближний Восток &amp; Африка; Северная &amp; Центральная Америка; а также Южная Америка.</p><p><br></p>"
+          "text": "<p>Мы благодарим Вас за интерес, проявленный к деятельности ТОО «NEXIA KZ» (ТОО «НАК «Казахконсалтинг»), являющейся членом международной сети Nexia International.&nbsp;</p><p><br></p><p>Летом 2014 года наша компания была признана полностью соответствующей и предоставляющей услуги в соответствии с Международными Стандартами Качества.&nbsp;</p><p><br></p><p>В соответствии с правилами сети Nexia International наша компания теперь называется ТОО \"NEXIA KZ\" и выступает правопреемником по всем проектам ТОО «НАК «Казахконсалтинг».</p><p><br></p><p>Nexia International действует в четырех регионах: Азиатско-Тихоокеанский регион; Европа, Ближний Восток &amp; Африка; Северная &amp; Центральная Америка; а также Южная Америка.</p><p><br></p>"
         },
         {
           "_inherit": "msg-box5",
@@ -4892,6 +4892,156 @@
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nexia-logo2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<font color=\"#00a8a4\"><b>КОНТАКТЫ</b></font>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "050036, Казахстан, г. Алматы м-он \"Мамыр - 4\" , <br>дом 297-а, 4, 5 этаж<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
+          "title1": "Категории",
+          "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@nexia.kz",
+            "alerts": {
+              "success": "Спасибо! Мы ответим вам в самое ближайшее время."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "title": "О компании",
+        "meta_descr": "Информация о компании",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "B": {
+              "color": "#ffffff"
+            },
+            "LI": {
+              "color": "#28324e"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".list-group-text": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_anchor": "contacts5-3y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
+            "bgColor": "#0ba988",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#00a885"
           },
           "logo": {
             "image": {
