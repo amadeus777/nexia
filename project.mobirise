@@ -200,7 +200,7 @@
                 "showTitle": true,
                 "title": "Аутсорсинг",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">Комплексное ведение бухгалтерского учета</span><br><span style=\"font-style: normal;\">Аутсорсинг работы с персоналом</span><br><span style=\"font-style: normal;\">Due diligence</span><br>",
+                "text": "<span style=\"font-style: normal;\">Комплексное ведение бухгалтерского учета</span><br><span style=\"font-style: normal;\">Аутсорсинг работы с персоналом</span><br><span style=\"font-style: normal;\">Due Diligence</span><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
