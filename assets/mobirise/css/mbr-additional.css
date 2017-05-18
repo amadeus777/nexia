@@ -1883,9 +1883,6 @@ h6,
 #contacts5-3y STRONG {
   color: #efefef;
 }
-
-
-
 #ext_menu-3z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1961,54 +1958,6 @@ h6,
 #header3-41 H3 {
   font-size: 36px;
   color: #00a885;
-}
-#msg-box6-43 .mbr-section-title,
-#msg-box6-43 .lead p {
-  color: #fff;
-}
-#msg-box6-43 P {
-  font-family: 'Lato', sans-serif;
-  text-align: left;
-}
-#msg-box6-43 H3 {
-  text-align: left;
-}
-#contacts5-45 p,
-#contacts5-45 .list-group-text,
-#contacts5-45 .form-control-label {
-  color: #000;
-}
-#contacts5-45 strong,
-#contacts5-45 h4 {
-  color: #7e9b9f;
-}
-#contacts5-45 form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-45 .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-45 .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
-#contacts5-45 B {
-  color: #475577;
-}
-#contacts5-45 LI {
-  color: #28324e;
-}
-#contacts5-45 P {
-  font-family: 'Lora', serif;
-}
-#contacts5-45 .list-group-text {
-  font-family: 'Lora', serif;
-}
-#contacts5-45 H4 {
-  color: #efefef;
-}
-#contacts5-45 STRONG {
-  color: #efefef;
 }
 #content5-47 .mbr-section-title,
 #content5-47 p {
