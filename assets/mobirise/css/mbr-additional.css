@@ -1342,6 +1342,10 @@ h6,
 }
 #msg-box6-35 P {
   font-family: 'Lato', sans-serif;
+  text-align: left;
+}
+#msg-box6-35 H3 {
+  text-align: left;
 }
 #contacts5-33 p,
 #contacts5-33 .list-group-text,
