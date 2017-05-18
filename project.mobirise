@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_tags": [
@@ -244,7 +244,7 @@
             "showMeta": true
           },
           "title": "Nexia International<br>",
-          "meta": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">ведущая международная сеть независимых бухгалтерских фирм, предоставляющие клиентам национальный и международный аудит, бухгалтерские, налоговые и консультативные услуги связанным, личным и заказным способом.</span><br>"
+          "meta": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">&nbsp;международная сеть независимых бухгалтерских фирм, предоставляющие клиентам национальный и международный аудит, бухгалтерские, налоговые и консультативные услуги связанным, личным и заказным способом.</span><br>"
         },
         {
           "_tags": [
@@ -771,7 +771,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#00a885"
             }
           },
           "_anchor": "header4-n",
@@ -789,7 +789,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0",
             "overlayColor": "#efefef",
             "contentAlign": "center",
             "showTitle": true,
@@ -896,9 +896,9 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text1": "<p><b>The Caspian International restaurants</b></p><p><b>Punj Lloyd</b></p><p><br></p>",
-          "text2": "<p><b>Comlux aviation</b></p><p><b>Grundfos</b></p><p><br></p>",
-          "text3": "<p><b>Kerneu limited</b></p><p><b>Promstroy Energo</b></p><p><br></p>"
+          "text1": "<p><b>The Caspian International restaurants</b></p><p><b>Punj Lloyd</b></p><p><b>АВВ</b></p><p><b>31 канал</b></p><p><b>МОЛ Aport</b></p><p><b>Zhersu</b></p><p><b>Shell</b></p><p><b>KFC</b></p><p><br></p><p><br></p>",
+          "text2": "<p><b>Comlux aviation</b></p><p><b>Grundfos</b></p><p><b>Saiman</b></p><p><b>B.Braun medical</b></p><p><b>Атрыуская ТЭЦ</b></p><p><b>Атырау Теплоэлектроцентраль&nbsp;</b></p><p><b>Атыраужарык</b></p><p><b>Kerneu limited</b></p><p><br></p>",
+          "text3": "<p><b>Kerneu limited</b></p><p><b>Promstroy Energo</b></p><p><b>ZTE</b></p><p><b>Starco Azia</b></p><p><b>TUF</b></p><p><b>Volvo</b></p><p><b>Evrazia st</b></p><p><b>Energy invest</b></p><p><b>IRG</b></p><p><br></p>"
         },
         {
           "_inherit": "msg-box5",
@@ -1095,7 +1095,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -1258,7 +1258,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -1272,10 +1272,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -1289,7 +1289,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1325,7 +1325,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1473,7 +1473,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -1845,6 +1845,12 @@
             ".list-group-text": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H4": {
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -1858,7 +1864,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2039,7 +2045,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -2124,7 +2130,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<ul><li><font face=\"Lora, serif\"><b>Консалтинговые услуги в области налогообложения и бухгалтерского учета;</b></font></li><li><font face=\"Lora, serif\"><b>Юридические услуги, не связанные с адвокатской деятельностью.</b></font></li></ul>"
+          "text": "<ul><li><font face=\"Lora, serif\"><b>Консалтинговые услуги в области налогообложения и бухгалтерского учета;</b></font></li></ul>"
         },
         {
           "_tags": [
@@ -2406,6 +2412,12 @@
             ".list-group-text": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H4": {
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -2419,7 +2431,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2433,13 +2445,16 @@
               "link": "index.html",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<font color=\"#00a8a4\"><b>КОНТАКТЫ</b></font>",
@@ -2600,7 +2615,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -2685,7 +2700,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<ul><li><font face=\"Lora, serif\"><b>Аутсорсинговые услуги в области бухгалтерского учета</b></font></li><li><b>Аутсорсинг в области работы с персоналом</b></li><li><b>Due diligence</b></li></ul>"
+          "text": "<ul><li><font face=\"Lora, serif\"><b>Аутсорсинговые услуги в области бухгалтерского учета</b></font></li><li><b>Аутсорсинг в области работы с персоналом</b></li><li><b>Due Diligence</b></li></ul>"
         },
         {
           "_tags": [
@@ -2919,7 +2934,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Due diligence",
+          "title": "Due Diligence",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -2967,6 +2982,12 @@
             ".list-group-text": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H4": {
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -2980,7 +3001,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2994,13 +3015,16 @@
               "link": "index.html",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<font color=\"#00a8a4\"><b>КОНТАКТЫ</b></font>",
@@ -3013,7 +3037,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3161,7 +3185,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -3267,7 +3291,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -3281,10 +3305,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -3298,7 +3322,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3334,7 +3358,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3482,7 +3506,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -3554,7 +3578,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Мы благодарим Вас за интерес, проявленный к деятельности ТОО «NEXIA KZ» (ТОО «НАК «Казахконсалтинг»), являющейся членом международной сети Nexia International.&nbsp;</p><p><br></p><p>Летом 2014 года наша компания была признана полностью соответствующей и предоставляющей услуги в соответствии с Международными Стандартами Качества.&nbsp;</p><p><br></p><p>В соответствии с правилами сети Nexia International наша компания теперь называется ТОО \"NEXIA KZ\" и выступает правопреемником по всем проектам ТОО «НАК «Казахконсалтинг».</p><p><br></p><p>Nexia International действует в четырех регионах: Азиатско-Тихоокеанский регион; Европа, Ближний Восток &amp; Африка; Северная &amp; Центральная Америка; а также Южная Америка.</p><p><br></p>"
+          "text": "<p>Мы благодарим Вас за интерес, проявленный к деятельности ТОО «NEXIA KZ» (ТОО «НАК «Казахконсалтинг»), являющейся членом международной сети Nexia International.&nbsp;</p><p><br></p><p>Летом 2014 года наша компания была признана полностью соответствующей и предоставляющей услуги в соответствии с Международными Стандартами Качества.&nbsp;</p><p><br></p><p>В соответствии с правилами сети Nexia International наша компания теперь называется ТОО \"NEXIA KZ\" и выступает правопреемником по всем проектам ТОО «НАК «Казахконсалтинг».</p><p><br></p>"
         },
         {
           "_inherit": "msg-box5",
@@ -3656,7 +3680,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -3670,10 +3694,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -3687,7 +3711,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3723,7 +3747,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3871,7 +3895,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_inherit": "contacts3",
@@ -3893,7 +3917,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -3907,10 +3931,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -3924,7 +3948,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3960,7 +3984,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4108,7 +4132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -4214,7 +4238,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -4228,10 +4252,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -4245,7 +4269,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4281,7 +4305,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4429,7 +4453,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -4535,7 +4559,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -4549,10 +4573,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -4566,7 +4590,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4602,7 +4626,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4750,7 +4774,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -4856,7 +4880,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -4870,10 +4894,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -4887,7 +4911,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4923,7 +4947,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -5006,7 +5030,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -5020,10 +5044,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -5037,7 +5061,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5073,7 +5097,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
@@ -5221,7 +5245,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEXIA KZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">О КОМПАНИИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://top.fvds.ru\">О нас</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">Презентация компании</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audit.html\">Аудит</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"konsalting.html\">Консультационные услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Аутсорсинг</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autsorsing.html\">Заявка на услуги</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">НОВОСТИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">РУС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ENG</a></li>"
         },
         {
           "_styles": {
@@ -5250,7 +5274,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.2",
             "overlayColor": "#00a885",
             "showTitle": true,
             "showCaption": false
@@ -5293,7 +5317,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Мы благодарим Вас за интерес, проявленный к деятельности ТОО «NEXIA KZ» (ТОО «НАК «Казахконсалтинг»), являющейся членом международной сети Nexia International.&nbsp;</p><p><br></p><p>Летом 2014 года наша компания была признана полностью соответствующей и предоставляющей услуги в соответствии с Международными Стандартами Качества.&nbsp;</p><p><br></p><p>В соответствии с правилами сети Nexia International наша компания теперь называется ТОО \"NEXIA KZ\" и выступает правопреемником по всем проектам ТОО «НАК «Казахконсалтинг».</p><p><br></p><p>Nexia International действует в четырех регионах: Азиатско-Тихоокеанский регион; Европа, Ближний Восток &amp; Африка; Северная &amp; Центральная Америка; а также Южная Америка.</p><p><br></p>"
+          "text": "<p>Мы благодарим Вас за интерес, проявленный к деятельности ТОО «NEXIA KZ» (ТОО «НАК «Казахконсалтинг»), являющейся членом международной сети Nexia International.&nbsp;</p><p><br></p><p>Летом 2014 года наша компания была признана полностью соответствующей и предоставляющей услуги в соответствии с Международными Стандартами Качества.&nbsp;</p><p><br></p><p>В соответствии с правилами сети Nexia International наша компания теперь называется ТОО \"NEXIA KZ\" и выступает правопреемником по всем проектам ТОО «НАК «Казахконсалтинг».</p><p><br></p>"
         },
         {
           "_inherit": "msg-box5",
@@ -5395,7 +5419,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             "LI": {
               "color": "#28324e"
@@ -5409,10 +5433,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -5426,7 +5450,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
-            "bgColor": "#0ba988",
+            "bgColor": "#18a487",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5462,7 +5486,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92,&nbsp;8 747 670 96 01",
+          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
           "media2": {
             "iconFont": {
               "active": true,
