@@ -1878,13 +1878,16 @@
               "link": "index.html",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<font color=\"#00a8a4\"><b>КОНТАКТЫ</b></font>",
