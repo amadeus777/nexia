@@ -148,7 +148,8 @@
             },
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -167,9 +168,9 @@
                 "overlayColor": "#00a885",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Аудиторские услуги",
+                "title": "<br><br>АУДИТОРСКИЕ УСЛУГИ<br><br>",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">Аудит финансовой отчетности<br>Обзор, согласованные процедуры<br>Аудит специального назначения</span>",
+                "text": "<span style=\"font-style: normal;\">- Аудит финансовой отчетности</span><span style=\"font-style: normal;\"><br>- Обзор, согласованные процедуры<br>- Аудит специального назначения</span>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -183,9 +184,9 @@
                 "overlayColor": "#00a885",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "<br>КОНСАЛТИНГОВЫЕ УСЛУГИ",
+                "title": "<br><br><br>КОНСАЛТИНГОВЫЕ УСЛУГИ<br><br>",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">Консалтинговые услуги в области<br>налогооблажения, бухгалтерского&nbsp;учета <br><br></span>",
+                "text": "<span style=\"font-style: normal;\">Консалтинговые услуги в области<br>налогооблажения и</span><br><span style=\"font-style: normal;\">бухгалтерского&nbsp;учета <br><br></span>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -199,7 +200,7 @@
                 "overlayColor": "#ffffff",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Аутсорсинг",
+                "title": "<br><br>АУТСОРСИНГ<br><br>",
                 "showText": true,
                 "text": "<span style=\"font-style: normal;\">Комплексное ведение бухгалтерского учета</span><br><span style=\"font-style: normal;\">Аутсорсинг работы с персоналом</span><br><span style=\"font-style: normal;\">Due Diligence</span><br>",
                 "showButtons": false,
