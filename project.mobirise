@@ -972,18 +972,18 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "color": "#475577",
+              "color": "#232323",
               "font-size": "14px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "UL": {
-              "color": "#475577"
+              "color": "#232323"
             },
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#28324e"
+              "color": "#232323"
             },
             "STRONG": {
               "color": "#28324e"
