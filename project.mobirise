@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 156,
+    "uniqCompNum": 160,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -52,7 +52,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -182,9 +183,9 @@
                 "overlayColor": "#00a885",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "КОНСАЛТИНГОВЫЕ УСЛУГИ",
+                "title": "<br>КОНСАЛТИНГОВЫЕ УСЛУГИ",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">Консалтинговые услуги в области<br>налогооблажения, бухгалтерского&nbsp;учета <br>и юридические услуги не связанные<br> с адвокатской деятельностью</span>",
+                "text": "<span style=\"font-style: normal;\">Консалтинговые услуги в области<br>налогооблажения, бухгалтерского&nbsp;учета <br><br></span>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -244,7 +245,7 @@
             "showMeta": true
           },
           "title": "Nexia International<br>",
-          "meta": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">&nbsp;международная сеть независимых бухгалтерских фирм, предоставляющие клиентам национальный и международный аудит, бухгалтерские, налоговые и консультативные услуги связанным, личным и заказным способом.</span><br>"
+          "meta": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">&nbsp;международная сеть независимых бухгалтерских фирм, предоставляющие клиентам международный аудит, бухгалтерские, налоговые и консультативные услуги связанным, личным и заказным способом.</span><br>"
         },
         {
           "_tags": [
@@ -552,7 +553,7 @@
           },
           "title1": "Специализированные решения",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Наши эксперты будут сотрудничать с вами, чтобы понять Ваши потребности и обеспечить решения по достижению Вами своих стремлений, основанных на практическом опыте.<br>",
+          "caption1": "Наши эксперты будут сотрудничать с Вами, чтобы понять Ваши потребности и обеспечить решения по достижению Вами своих стремлений, основанных на практическом опыте.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -684,7 +685,7 @@
           },
           "title1": "Качественный Аудит и гарантия",
           "subtitle1": "",
-          "caption1": "Услуги по проведению &nbsp;Аудита.<br><br>Международные стандарты финансовой отчетности.<br><br>Корпоративное управление и консультативные услуги по рискам.<br><br>Дью дилижанс.",
+          "caption1": "Услуги по проведению &nbsp;Аудита.<br><br>Международные стандарты финансовой отчетности.<br><br>Корпоративное управление и консультативные услуги по рискам.<br><br>Due Diligence.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -896,9 +897,9 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text1": "<p><b>The Caspian International restaurants</b></p><p><b>Punj Lloyd</b></p><p><b>АВВ</b></p><p><b>31 канал</b></p><p><b>МОЛ Aport</b></p><p><b>Zhersu</b></p><p><b>Shell</b></p><p><b>KFC</b></p><p><br></p><p><br></p>",
-          "text2": "<p><b>Comlux aviation</b></p><p><b>Grundfos</b></p><p><b>Saiman</b></p><p><b>B.Braun medical</b></p><p><b>Атрыуская ТЭЦ</b></p><p><b>Атырау Теплоэлектроцентраль&nbsp;</b></p><p><b>Атыраужарык</b></p><p><b>Kerneu limited</b></p><p><br></p>",
-          "text3": "<p><b>Kerneu limited</b></p><p><b>Promstroy Energo</b></p><p><b>ZTE</b></p><p><b>Starco Azia</b></p><p><b>TUF</b></p><p><b>Volvo</b></p><p><b>Evrazia st</b></p><p><b>Energy invest</b></p><p><b>IRG</b></p><p><br></p>"
+          "text1": "<p><b>The Caspian International restaurants (KFC)</b></p><p><b>Punj Lloyd</b></p><p><b>АВВ</b></p><p><b>31 канал</b></p><p><b>МОЛ Aport</b></p><p><b>Zhersu</b></p><p><b>Shell</b></p><p><b>ТОО «Grundfos Kazakhstan» (Грундфос Казахстан)</b></p>",
+          "text2": "<p><b>Comlux aviation</b></p><p><b>Grundfos</b></p><p><b>Saiman</b></p><p><b>B.Braun medical</b></p><p><b>Атрыуская ТЭЦ</b></p><p><b>Атырау Теплоэлектроцентраль&nbsp;</b></p><p><b>Атыраужарык</b></p><p><b>Kerneu limited</b></p><p><b>ТОО «Глобалинк Транспортэйшн энд Лоджистикс Ворлдвайд»</b></p><p><br></p>",
+          "text3": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Promstroy Energo</b><br></p><p><b>ZTE</b></p><p><b>Starco Azia</b></p><p><b>TUF</b></p><p><b>Volvo</b></p><p><b>Evrazia st</b></p><p><b>Energy invest</b></p><p><b>IRG</b></p><p><b>ТОО «Водные ресурсы - Маркетинг»</b></p><p><br></p>"
         },
         {
           "_inherit": "msg-box5",
@@ -972,33 +973,41 @@
             "P": {
               "color": "#475577",
               "font-size": "14px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "UL": {
               "color": "#475577"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#28324e"
+            },
+            "STRONG": {
+              "color": "#28324e"
             }
           },
-          "_anchor": "contacts2-10",
+          "_anchor": "contacts2-4f",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "file:///C:/Users/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333_2.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.6",
             "overlayColor": "#2b0680",
             "googleMap": {
-              "address": "050036, Казахстан, г. Алматы м-он \"Мамыр - 4\" , \nдом 297-а, 4, 5 этаж ",
-              "placeId": "ChIJbyZUGTpogzgRsM3-LVbeTSk",
+              "address": "297а,  мкр. Мамыр 4, Алматы, Казахстан\n",
+              "placeId": "ChIJVXcvyElogzgRJ5q4iKdISuw",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Адрес</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>050036, Казахстан, г. Алматы м-он \"Мамыр - 4\" , <br>дом 297-а, 4, 5 этаж&nbsp;<br><br><br>\n<strong>Контакты</strong><br>Tel: +7 (727) 356 28 91, <br>+7 (727) 356 28 92&nbsp;<br>Mob: 8 747 670 96 01<br>Fax:&nbsp;+7(727) 356 28 93 <br>E-mail: info@nexia.kz&nbsp;<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Адрес</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>050036, Казахстан, г. Алматы м-он \"Мамыр - 4\" , <br>дом 297-а, 4, 5 этаж&nbsp;<br><br><br>\n<strong>Контакты</strong><br><span style=\"line-height: 1.5;\">Tel: +7 (727) 356 28 91, </span><br><span style=\"line-height: 1.5;\">+7 (727) 356 28 92,&nbsp;</span>8 747 670 96 01<br><br>Fax<b>:</b>&nbsp;+7 (727) 356 28 93 <br><br>E-mail: info@nexia.kz&nbsp;<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Меню</strong></p><ul><font color=\"#bcbcbc\"><span style=\"font-size: 14px; line-height: 25px;\"><a href=\"index.html#features1-p\">О Компании</a></span></font><br><span style=\"font-size: 14px; line-height: 25px;\">Услуги</span><br><span style=\"font-size: 14px; line-height: 25px;\">Новости</span></ul>"
         }
       ]
@@ -1020,7 +1029,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -1265,17 +1275,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -1289,7 +1301,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1325,7 +1337,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1348,7 +1360,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -1398,7 +1410,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -1778,7 +1791,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -1787,9 +1801,9 @@
           "_name": "header3",
           "_anchor": "header3-1m",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#00a885",
             "showMeta": false
           },
           "title": "Аудит специального назначения",
@@ -1802,14 +1816,14 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "content1-1n",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#079476"
+            "bgColor": "#ffffff"
           },
           "text": "<p>Подтверждение достоверности финансовой отчетности по проектам Еврокомиссии, Всемирного банка (ВБ), Азиатского банка развития и других международных финансовых институтов, Инвестиционного фонда Казахстана, рейтинговых агентств и др.</p>"
         },
@@ -1840,17 +1854,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -1864,7 +1880,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1900,7 +1916,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1923,7 +1939,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -1973,7 +1989,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -2410,17 +2427,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -2434,7 +2453,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2470,7 +2489,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2493,7 +2512,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -2543,7 +2562,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -2980,17 +3000,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -3004,7 +3026,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3040,7 +3062,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3063,7 +3085,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -3113,7 +3135,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -3301,17 +3324,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -3325,7 +3350,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3361,7 +3386,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3384,7 +3409,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -3434,7 +3459,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -3690,17 +3716,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -3714,7 +3742,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3750,7 +3778,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3773,7 +3801,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -3823,7 +3851,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -3927,17 +3956,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -3951,7 +3982,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3987,7 +4018,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4010,7 +4041,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -4060,7 +4091,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -4248,17 +4280,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -4272,7 +4306,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4308,7 +4342,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4331,7 +4365,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -4381,7 +4415,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -4569,17 +4604,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -4593,7 +4630,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4629,7 +4666,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4652,7 +4689,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -4702,7 +4739,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"
@@ -4890,17 +4928,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -4914,7 +4954,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4950,7 +4990,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4973,7 +5013,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -5040,17 +5080,19 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             ".list-group-text": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#28324e"
             },
             "H4": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             "STRONG": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -5064,7 +5106,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
-            "bgColor": "#18a487",
+            "bgColor": "#4bc0a8",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5100,7 +5142,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+7(727) 356 28 91, +7(727) 356 28 92",
+          "text2": "+7 (727) 356 28 91, +7 (727) 356 28 92,&nbsp;8 747 670 96 01",
           "media2": {
             "iconFont": {
               "active": true,
@@ -5123,7 +5165,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">info@nexia.kz</a>",
           "title1": "Категории",
           "text5": "<br><li>О компании</li><li><a class=\"text-primary\" href=\"#\">У</a>слуги</li><li><a class=\"text-primary\" href=\"#\">Н</a>овости</li><li><a class=\"text-primary\" href=\"#\">С</a>пецпредложения</li>",
-          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: info@nexia.kz<br>Phone: +7 (727) 356 28 91,&nbsp;<br>+7 (727) 356 28 92,&nbsp;8 747 670 96 01<br>Fax: +7 (727) 356 28 93 <br><br><br><strong>Address</strong><br>Kazakhstan, Mamyr-4, 297a/4<br>Almaty, AA 050036",
           "form": {
             "title": "MESSAGE",
             "action": "info@nexia.kz",
@@ -5173,7 +5215,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#28324e"

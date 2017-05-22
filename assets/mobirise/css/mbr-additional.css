@@ -16,6 +16,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -428,6 +429,7 @@ h6,
 }
 #ext_menu-16 .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-16 .navbar-toggler {
   color: #28324e;
@@ -578,13 +580,20 @@ h6,
   font-size: 36px;
   color: #000000;
 }
-#contacts2-10 P {
+#contacts2-4f P {
   color: #475577;
   font-size: 14px;
-  font-family: 'Lora', serif;
+  font-family: 'Open Sans', sans-serif;
 }
-#contacts2-10 UL {
+#contacts2-4f UL {
   color: #475577;
+}
+#contacts2-4f SPAN {
+  font-family: 'Open Sans', sans-serif;
+  color: #28324e;
+}
+#contacts2-4f STRONG {
+  color: #28324e;
 }
 
 
@@ -593,6 +602,7 @@ h6,
 }
 #ext_menu-1p .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-1p .navbar-toggler {
   color: #28324e;
@@ -686,15 +696,17 @@ h6,
 }
 #contacts5-1q P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-1q .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-1q H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-1q STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -705,6 +717,7 @@ h6,
 }
 #ext_menu-17 .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-17 .navbar-toggler {
   color: #28324e;
@@ -812,9 +825,10 @@ h6,
 }
 #header3-1m H3 {
   font-size: 25px;
+  color: #ffffff;
 }
 #content1-1n P {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts5-1o p,
 #contacts5-1o .list-group-text,
@@ -843,15 +857,17 @@ h6,
 }
 #contacts5-1o P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-1o .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-1o H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-1o STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -862,6 +878,7 @@ h6,
 }
 #ext_menu-1u .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-1u .navbar-toggler {
   color: #28324e;
@@ -997,15 +1014,17 @@ h6,
 }
 #contacts5-26 P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-26 .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-26 H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-26 STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -1016,6 +1035,7 @@ h6,
 }
 #ext_menu-28 .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-28 .navbar-toggler {
   color: #28324e;
@@ -1151,15 +1171,17 @@ h6,
 }
 #contacts5-2k P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-2k .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-2k H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-2k STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -1168,6 +1190,7 @@ h6,
 }
 #ext_menu-2q .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-2q .navbar-toggler {
   color: #28324e;
@@ -1265,15 +1288,17 @@ h6,
 }
 #contacts5-2t P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-2t .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-2t H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-2t STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -1283,6 +1308,7 @@ h6,
 }
 #ext_menu-2x .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-2x .navbar-toggler {
   color: #28324e;
@@ -1392,15 +1418,17 @@ h6,
 }
 #contacts5-33 P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-33 .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-33 H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-33 STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -1409,6 +1437,7 @@ h6,
 }
 #ext_menu-37 .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-37 .navbar-toggler {
   color: #28324e;
@@ -1492,15 +1521,17 @@ h6,
 }
 #contacts5-38 P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-38 .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-38 H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-38 STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -1509,6 +1540,7 @@ h6,
 }
 #ext_menu-39 .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-39 .navbar-toggler {
   color: #28324e;
@@ -1606,15 +1638,17 @@ h6,
 }
 #contacts5-3e P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-3e .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-3e H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-3e STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -1623,6 +1657,7 @@ h6,
 }
 #ext_menu-3f .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-3f .navbar-toggler {
   color: #28324e;
@@ -1720,15 +1755,17 @@ h6,
 }
 #contacts5-3k P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-3k .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-3k H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-3k STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -1737,6 +1774,7 @@ h6,
 }
 #ext_menu-3l .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-3l .navbar-toggler {
   color: #28324e;
@@ -1834,15 +1872,17 @@ h6,
 }
 #contacts5-3q P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-3q .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-3q H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-3q STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 
 
@@ -1873,21 +1913,24 @@ h6,
 }
 #contacts5-3y P {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-3y .list-group-text {
   font-family: 'Lora', serif;
+  color: #28324e;
 }
 #contacts5-3y H4 {
-  color: #efefef;
+  color: #28324e;
 }
 #contacts5-3y STRONG {
-  color: #efefef;
+  color: #28324e;
 }
 #ext_menu-3z .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-3z .navbar-caption {
   color: #ffffff;
+  font-size: 23px;
 }
 #ext_menu-3z .navbar-toggler {
   color: #28324e;
