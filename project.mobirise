@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 160,
+    "uniqCompNum": 164,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -246,7 +246,7 @@
             "showMeta": true
           },
           "title": "Nexia International<br>",
-          "meta": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">&nbsp;международная сеть независимых бухгалтерских фирм, предоставляющие клиентам международный аудит, бухгалтерские, налоговые и консультативные услуги связанным, личным и заказным способом.</span><br>"
+          "meta": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">&nbsp;международная сеть независимых бухгалтерских фирм, предоставляющая клиентам международный аудит, бухгалтерские, налоговые и консультативные услуги связанным, личным и заказным способом.</span><br>"
         },
         {
           "_tags": [
@@ -898,8 +898,8 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text1": "<p><b>The Caspian International restaurants (KFC)</b></p><p><b>Punj Lloyd</b></p><p><b>АВВ</b></p><p><b>31 канал</b></p><p><b>МОЛ Aport</b></p><p><b>Zhersu</b></p><p><b>Shell</b></p><p><b>ТОО «Grundfos Kazakhstan» (Грундфос Казахстан)</b></p>",
-          "text2": "<p><b>Comlux aviation</b></p><p><b>Grundfos</b></p><p><b>Saiman</b></p><p><b>B.Braun medical</b></p><p><b>Атрыуская ТЭЦ</b></p><p><b>Атырау Теплоэлектроцентраль&nbsp;</b></p><p><b>Атыраужарык</b></p><p><b>Kerneu limited</b></p><p><b>ТОО «Глобалинк Транспортэйшн энд Лоджистикс Ворлдвайд»</b></p><p><br></p>",
+          "text1": "<p><b>The Caspian International restaurants (KFC)</b></p><p><b>Punj Lloyd</b></p><p><b>АВВ</b></p><p><b>31 канал</b></p><p><b>МОЛ Aport</b></p><p><b>Zhersu</b></p><p><b>Shell</b></p><p><b>ТОО «Grundfos Kazakhstan»&nbsp;</b></p>",
+          "text2": "<p><b>Comlux aviation</b></p><p><b>Saiman</b></p><p><b>B.Braun medical</b></p><p><b>Атрыуская ТЭЦ</b></p><p><b>Атырау Теплоэлектроцентраль&nbsp;</b></p><p><b>Атыраужарык</b></p><p><b>Kerneu limited</b></p><p><b>ТОО «Глобалинк Транспортэйшн энд Лоджистикс Ворлдвайд»</b></p><p><br></p>",
           "text3": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Promstroy Energo</b><br></p><p><b>ZTE</b></p><p><b>Starco Azia</b></p><p><b>TUF</b></p><p><b>Volvo</b></p><p><b>Evrazia st</b></p><p><b>Energy invest</b></p><p><b>IRG</b></p><p><b>ТОО «Водные ресурсы - Маркетинг»</b></p><p><br></p>"
         },
         {
@@ -969,6 +969,24 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "map2",
+          "_anchor": "map2-4g",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "googleMap": {
+              "address": "297-а микрорайон Мамыр 4, Алматы, Казахстан",
+              "placeId": "ChIJVXcvyElogzgRJ5q4iKdISuw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts2",
           "_styles": {
             "P": {
@@ -1002,7 +1020,7 @@
             "overlayOpacity": "0.6",
             "overlayColor": "#2b0680",
             "googleMap": {
-              "address": "297а,  мкр. Мамыр 4, Алматы, Казахстан\n",
+              "address": "дом 297-а,  мкр. Мамыр 4, Алматы, Казахстан\n",
               "placeId": "ChIJVXcvyElogzgRJ5q4iKdISuw",
               "state": "ok",
               "stateDetails": ""
@@ -1653,7 +1671,7 @@
               "background-color": "#038d71"
             }
           },
-          "_anchor": "features1-1g",
+          "_anchor": "features1-4i",
           "_params": {
             "columnsColor": "#038d71",
             "paddingTop": 2,
@@ -1679,10 +1697,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1449048661-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Финансовых организаций",
@@ -1691,10 +1713,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/25.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Страховых компаний",
@@ -1703,10 +1729,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/images-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Пенсионных фондов",
@@ -1715,10 +1745,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/almaty-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Компаний РФЦ Алматы",
@@ -1868,6 +1902,10 @@
             },
             "STRONG": {
               "color": "#28324e"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_tags": [
@@ -2232,7 +2270,7 @@
               "background-color": "#038d71"
             }
           },
-          "_anchor": "features1-21",
+          "_anchor": "features1-4j",
           "_params": {
             "columnsColor": "#038d71",
             "paddingTop": 2,
@@ -2258,10 +2296,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1449048661-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Финансовых организаций",
@@ -2270,10 +2312,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/25.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Страховых компаний",
@@ -2282,10 +2328,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/images-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Пенсионных фондов",
@@ -2294,10 +2344,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/almaty-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Компаний РФЦ Алматы",
@@ -2805,7 +2859,7 @@
               "background-color": "#038d71"
             }
           },
-          "_anchor": "features1-2f",
+          "_anchor": "features1-4h",
           "_params": {
             "columnsColor": "#038d71",
             "paddingTop": 2,
@@ -2831,10 +2885,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1449048661.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Финансовых организаций",
@@ -2843,10 +2901,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/250.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Страховых компаний",
@@ -2855,10 +2917,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/images.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Пенсионных фондов",
@@ -2867,10 +2933,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/almaty.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Компаний РФЦ Алматы",
@@ -3014,6 +3084,10 @@
             },
             "STRONG": {
               "color": "#28324e"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_tags": [

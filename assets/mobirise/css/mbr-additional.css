@@ -713,6 +713,7 @@ h6,
 
 
 
+
 #ext_menu-17 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -810,7 +811,7 @@ h6,
 #msg-box8-1l .mbr-section-title {
   font-size: 30px;
 }
-#features1-1g .striped .mbr-cards-col:nth-child(2n+1) {
+#features1-4i .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #038d71;
 }
 #header3-1k .mbr-section-title,
@@ -869,6 +870,9 @@ h6,
 }
 #contacts5-1o STRONG {
   color: #28324e;
+}
+#contacts5-1o .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -971,7 +975,7 @@ h6,
 #msg-box8-1z .mbr-section-title {
   font-size: 30px;
 }
-#features1-21 .striped .mbr-cards-col:nth-child(2n+1) {
+#features1-4j .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #038d71;
 }
 #header3-22 .mbr-section-title,
@@ -1027,6 +1031,7 @@ h6,
 #contacts5-26 STRONG {
   color: #28324e;
 }
+
 
 
 
@@ -1128,7 +1133,7 @@ h6,
 #msg-box8-2d .mbr-section-title {
   font-size: 30px;
 }
-#features1-2f .striped .mbr-cards-col:nth-child(2n+1) {
+#features1-4h .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #038d71;
 }
 #header3-2g .mbr-section-title,
@@ -1183,6 +1188,9 @@ h6,
 }
 #contacts5-2k STRONG {
   color: #28324e;
+}
+#contacts5-2k .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 
 
