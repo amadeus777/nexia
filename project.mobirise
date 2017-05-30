@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Аудиторские услуги Nexia",
-    "currentPage": "autsorsing.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2294,7 +2294,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/energetik-kompany0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/energetik-kompany3.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2310,7 +2310,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/e5021.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e5024.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2326,7 +2326,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/goydalkobladnannya2.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/goydalkobladnannya5.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2883,7 +2883,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/energetik-kompany0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/energetik-kompany3.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2899,7 +2899,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/e5021.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e5024.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2915,7 +2915,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/goydalkobladnannya2.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/goydalkobladnannya5.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
