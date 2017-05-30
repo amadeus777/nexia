@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Аудиторские услуги Nexia",
-    "currentPage": "index.html",
+    "currentPage": "autsorsing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 164,
+    "uniqCompNum": 166,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1695,7 +1695,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/energetik-kompany.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1705,13 +1705,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Страховых компаний",
+          "title2": "Энергетических компаний",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/images-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e502.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1721,13 +1721,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Пенсионных фондов",
+          "title3": "Строительных компаний",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/almaty-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/goydalkobladnannya.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1737,7 +1737,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Компаний РФЦ Алматы",
+          "title4": "Недропользователей",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2252,7 +2252,7 @@
               "background-color": "#038d71"
             }
           },
-          "_anchor": "features1-4j",
+          "_anchor": "features1-4k",
           "_params": {
             "columnsColor": "#038d71",
             "paddingTop": 2,
@@ -2278,7 +2278,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1449048661-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1449048661-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2294,7 +2294,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/energetik-kompany0.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2304,13 +2304,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Страховых компаний",
+          "title2": "Энергетических компаний",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/images-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e5021.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2320,13 +2320,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Пенсионных фондов",
+          "title3": "Строительных компаний",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/almaty-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/goydalkobladnannya2.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2336,7 +2336,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Компаний РФЦ Алматы",
+          "title4": "Недропользователей",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2841,7 +2841,7 @@
               "background-color": "#038d71"
             }
           },
-          "_anchor": "features1-4h",
+          "_anchor": "features1-4l",
           "_params": {
             "columnsColor": "#038d71",
             "paddingTop": 2,
@@ -2867,7 +2867,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1449048661.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1449048661-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2883,7 +2883,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/251.jpg",
+              "src": "@PROJECT_PATH@/assets/images/energetik-kompany0.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2893,13 +2893,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Страховых компаний",
+          "title2": "Энергетических компаний",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/images.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e5021.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2909,13 +2909,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Пенсионных фондов",
+          "title3": "Строительных компаний",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/almaty.jpg",
+              "src": "@PROJECT_PATH@/assets/images/goydalkobladnannya2.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2925,7 +2925,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Компаний РФЦ Алматы",
+          "title4": "Недропользователей",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
